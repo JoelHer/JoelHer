@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iHouqLF
-- 👀 I’m interested in Programming xD
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on no1
-- 📫 How to reach me Discord: iHouqLF#9999
+- 👀 I’m interested in Node.js xD
+- 🌱 I’m currently learning Vuejs
+- 💞️ I’m looking to collaborate on ... sstill thinking...
+- 📫 How to reach me Discord: iHouqLF#8910
 
 
 <!---
