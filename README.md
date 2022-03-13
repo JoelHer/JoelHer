@@ -5,6 +5,6 @@
 - 📫 How to reach me Discord: iHouqLF#8910
 
 TODO List:
--Link Shortener
--Factorio Farming Mod
--Discord Bot Counting game (Currently working on)
+- Link Shortener
+- Factorio Farming Mod
+- Discord Bot Counting game (Currently working on)
