@@ -8,3 +8,4 @@ TODO List:
 - Link Shortener
 - Factorio Farming Mod
 - Discord Bot Counting game (Currently working on)
+- Soduko Solver with different algorithms
