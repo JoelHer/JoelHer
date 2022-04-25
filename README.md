@@ -9,3 +9,10 @@ TODO List:
 - Factorio Farming Mod
 - Discord Bot Counting game (Currently working on)
 - Soduko Solver with different algorithms
+- Write a shader in unity
+- Decompile a game (Maybe Minecraft?)
+- Finish Existing Projects:
+  - Rostbratwurst Discord Bot
+  - Philips Hue App
+  - etc.
+-
