@@ -15,4 +15,5 @@ TODO List:
   - Rostbratwurst Discord Bot
   - Philips Hue App
   - etc.
--
+-Make a file format
+-Simple login system
