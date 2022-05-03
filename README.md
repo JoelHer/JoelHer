@@ -10,10 +10,11 @@ TODO List:
 - Discord Bot Counting game (Currently working on)
 - Soduko Solver with different algorithms
 - Write a shader in unity
-- Decompile a game (Maybe Minecraft?)
+- Decompile a game (Maybe Minecraft Server?) / Hack it
+- Make a file format
+- Simple login system
 - Finish Existing Projects:
   - Rostbratwurst Discord Bot
   - Philips Hue App
   - etc.
--Make a file format
--Simple login system
+
