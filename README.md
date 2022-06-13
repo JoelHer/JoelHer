@@ -13,6 +13,7 @@ TODO List:
 - Decompile a game (Maybe Minecraft Server?) / Hack it
 - Make a file format
 - Simple login system
+- Write own game engine (Bad idea)
 - Finish Existing Projects:
   - Rostbratwurst Discord Bot
   - Philips Hue App
