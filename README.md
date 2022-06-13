@@ -6,6 +6,7 @@
 
 TODO List:
 - Link Shortener
+- Portfolio
 - Factorio Farming Mod
 - Discord Bot Counting game (Currently working on)
 - Soduko Solver with different algorithms
