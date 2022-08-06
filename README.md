@@ -15,6 +15,8 @@ TODO List:
 - Make a file format
 - Simple login system
 - Write own game engine (Bad idea)
+- Raytracing engine.... (no.)
+- Write proper opencv app in python (Without failing)
 - Finish Existing Projects:
   - Rostbratwurst Discord Bot
   - Philips Hue App
