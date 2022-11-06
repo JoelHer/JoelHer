@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working on the Together App.
 
-TODO List:
+Things I want to program:
 Link Shortener
 Portfolio
 Factorio Farming Mod
@@ -13,7 +13,9 @@ Make a file format
 Simple login system
 Write own game engine (Bad idea)
 Raytracing engine.... (no.)
+Minecraft server set-up assistant
 Write proper opencv app in python (Without failing)
+Nebula: A Next-Gen SSH and FTP Client
 Finish Existing Projects:
 Rostbratwurst Discord Bot
 Philips Hue App
