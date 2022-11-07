@@ -2,24 +2,24 @@
 I'm currently working on the Together App.
 
 Things I want to program:
-Link Shortener
-Portfolio
-Factorio Farming Mod
-Discord Bot Counting game (Currently working on)
-Soduko Solver with different algorithms
-Write a shader in unity
-Decompile a game (Maybe Minecraft Server?) / Hack it
-Make a file format
-Simple login system
-Write own game engine (Bad idea)
-Raytracing engine.... (no.)
-Minecraft server set-up assistant
-Write proper opencv app in python (Without failing)
-Nebula: A Next-Gen SSH and FTP Client
-Finish Existing Projects:
-Rostbratwurst Discord Bot
-Philips Hue App
-etc.
+- Link Shortener
+- Portfolio
+- Factorio Farming Mod
+- Discord Bot Counting game (Currently working on)
+- Soduko Solver with different algorithms
+- Write a shader in unity
+- Decompile a game (Maybe Minecraft Server?) / Hack it
+- Make a file format
+- Simple login system
+- Write own game engine (Bad idea)
+- Raytracing engine.... (no.)
+- Minecraft server set-up assistant
+- Write proper opencv app in python (Without failing)
+- Nebula: A Next-Gen SSH and FTP Client
+- Finish Existing Projects:
+- Rostbratwurst Discord Bot
+- Philips Hue App
+- etc.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RandomBeatz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ihouqlf) 
