@@ -4,6 +4,7 @@ I'm currently working on the Together App.
 Things I want to program:
 - Link Shortener
 - Portfolio
+- Cross device clipboard
 - Factorio Farming Mod
 - Discord Bot Counting game (Currently working on)
 - Soduko Solver with different algorithms
@@ -18,6 +19,7 @@ Things I want to program:
 - Finish Existing Projects:
 - Rostbratwurst Discord Bot fix
 - Philips Hue App
+- Philips Hue visualizer
 - etc.
 
 Done from TODO list:
