@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the Together App.
+I'm currently working on the Together App & on the Milkyway core mod from pouffy.
 
 Things I want to program:
 - Link Shortener
