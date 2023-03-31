@@ -4,9 +4,6 @@ I'm currently working on the Together App & on the Milkyway core mod from pouffy
 Things I want to program:
 - Link Shortener
 - Portfolio
-- Cross device clipboard
-- Factorio Farming Mod
-- Discord Bot Counting game (Currently working on)
 - Soduko Solver with different algorithms
 - Write a shader in unity
 - Decompile a game (Maybe Minecraft Server?) / Hack it
@@ -20,7 +17,6 @@ Things I want to program:
 - Rostbratwurst Discord Bot fix
 - Philips Hue App
 - Philips Hue visualizer
-- etc.
 
 Done from TODO list:
 - Simple login system
