@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently working on the Together App & on the Milkyway core mod from pouffy.
+nothing
 
-Things I want to program:
+# Things I want to program:
 - Link Shortener
 - Portfolio
 - Soduko Solver with different algorithms
