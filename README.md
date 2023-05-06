@@ -1,5 +1,5 @@
 # 💫 About Me:
-nothing
+-
 
 # Things I want to program:
 - Link Shortener
